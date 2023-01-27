@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bottom_menu_home"
+        android:icon="@drawable/icon_home"
+        android:title="home" />
+    <item
+        android:id="@+id/bottom_menu_popular"
+        android:icon="@drawable/icon_popular"
+        android:title="popular" />
+    <item
+        android:id="@+id/bottom_menu_random"
+        android:icon="@drawable/icon_random"
+        android:title="random" />
+    <item
+        android:id="@+id/bottom_menu_like"
+        android:icon="@drawable/icon_like"
+        android:title="liked" />
+
+</menu>

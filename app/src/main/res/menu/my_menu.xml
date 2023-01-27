@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group>
+        <item
+            android:id="@+id/menu_home"
+            android:icon="@drawable/menu_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/menu_popular"
+            android:icon="@drawable/menu_popular"
+            android:title="Popular" />
+        <item
+            android:id="@+id/menu_random"
+            android:icon="@drawable/menu_random"
+            android:title="Random" />
+        <item
+            android:id="@+id/menu_liked"
+            android:icon="@drawable/menu_liked"
+            android:title="Liked" />
+        <item
+            android:id="@+id/menu_history"
+            android:icon="@drawable/menu_history"
+            android:title="History" />
+        <item
+            android:id="@+id/menu_about"
+            android:icon="@drawable/menu_about"
+            android:title="About" />
+
+    </group>
+
+</menu>
